@@ -2,7 +2,7 @@ import speech_recognition as sr
 import openai
 
 # Configuración de la API de OpenAI
-openai.api_key = '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'
+openai.api_key = ''
 
 # Función para reconocer la voz
 def reconocer_voz():
